@@ -145,3 +145,20 @@ home
 }
 ```
 - now again material icon codes will work
+
+## Note i don't own the icon/sell/distribute it as my own
+all the icons are property of google's material icon  
+every time i want to use all type of material icon,i want to add all these 5 statements  
+```
+          <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+          <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round"
+      rel="stylesheet">
+          <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined"
+      rel="stylesheet">
+          <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp"
+      rel="stylesheet">
+          <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Two+Tone"
+      rel="stylesheet">
+```
+I have just simplified it by *all in one code*
